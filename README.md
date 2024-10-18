@@ -123,7 +123,7 @@ caption-io/
 ├── backend/                     # Backend code (Node.js, Express)
 │   ├── controllers/             # Controllers for API endpoints
 │   ├── routes/                  # API routes
-│   ├── config/                # Gemini API configuration and integration
+│   ├── config/                  # Gemini API configuration and integration
 │   ├── .env                     # Environment variables
 │   ├── index.js                   # Main Express app
 │
