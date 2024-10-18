@@ -106,7 +106,7 @@ The project integrates both a **Node.js/Express** backend and a **React.js** fro
 
    Open your browser and visit `http://localhost:5173` to view the app.
 
-> **Note:** The frontend will make API calls to `http://localhost:5173` for caption generation.
+> **Note:** The frontend will make API calls to `http://localhost:8000/api/v1/<route>` for caption generation.
 
 ## Usage
 
@@ -165,9 +165,8 @@ In the project directory, you can run the following commands for both **frontend
 
 ### Frontend
 
-- **`npm start`**: Runs the React app in development mode.
+- **`npm run dev`**: Runs the React app in development mode.
 - **`npm run build`**: Builds the app for production to the `build` folder.
-- **`npm test`**: Launches the test runner in interactive watch mode.
 
 ## Contributing
 
