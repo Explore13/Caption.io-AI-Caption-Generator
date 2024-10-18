@@ -4,7 +4,8 @@
 
 ### Challenge Overview
 
-- **Challenge**: Build an AI-powered application in one day.
+- **Challenge**: Build an AI-powered application in one hour.
+- **Planning**: I thought that I will build the Backend only. And I completed it in **30-45 minutes**.
 - **Timeline**:
   - Backend (Node.js, Express, and Gemini API) was built in **30-45 minutes**.
   - Frontend (React.js and Tailwind CSS) took around **2 hours**.
